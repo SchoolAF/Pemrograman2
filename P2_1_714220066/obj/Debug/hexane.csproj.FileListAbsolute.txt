@@ -1,0 +1,7 @@
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\obj\Debug\hexane.csproj.AssemblyReference.cache
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\obj\Debug\hexane.csproj.CoreCompileInputs.cache
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\bin\Debug\hexane.exe.config
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\bin\Debug\hexane.exe
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\bin\Debug\hexane.pdb
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\obj\Debug\hexane.exe
+C:\Users\SEKOLAH VOKASI\source\repos\hexane\hexane\obj\Debug\hexane.pdb
