@@ -1,0 +1,20 @@
+# Pemrogramman 2 (PBO)
+
+Matakuliah Pemrogramman ke dua pada Semester 3. Berfokus kepada Pemrogrammand berbasis objek.
+
+## Informasi Mahasiswa
+**Nama  :** Aliffathur Muhammad Revan  
+**NPM   :** 714220066
+
+## Index
+
+### Pertemuan 1
+Tidak ada tugas
+
+## Pertemuan 2
+- [Tugas 1: Operasi Aritmatika](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan02/Praktikum/P2_1_714220066)
+
+## Pertemuan 3
+= [Tugas 3: Index Prestasi Nahasiswa](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P2_1_714220066)
+= [Tugas 3: Menghitung Persegi](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P2_2_714220066)
+
