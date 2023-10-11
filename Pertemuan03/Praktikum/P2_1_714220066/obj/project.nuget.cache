@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lu7kwEjikCMtXaNQveoQzWgXDRrNZ2/YkcLDK6eOD+i6l5xhm0pvJDw+HmsQixlTNRfMZCsNFQr06i6j1ocOJg==",
+  "success": true,
+  "projectFilePath": "/home/buxx/P2/Pertemuan03/Parktikum/P2_1_714220066/IndexPrestasi/IndexPrestasi.csproj",
+  "expectedPackageFiles": [
+    "/home/buxx/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
