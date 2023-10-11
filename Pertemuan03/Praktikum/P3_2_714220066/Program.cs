@@ -1,48 +1,23 @@
 ﻿using System;
 
-class PersegiNiBoss
+class Program
 {
     static void Main()
     {
-        do
+        Console.WriteLine("Masukkan jumlah Anak Ayam");
+        int jumlahAnakAyam = Convert.ToInt16(Console.ReadLine());
+
+        if (jumlahAnakAyam <= 10 && jumlahAnakAyam >= 0)
         {
-            Console.WriteLine("Pilih operasi:");
-            Console.WriteLine("1. Menghitung luas persegi");
-            Console.WriteLine("2. Menghitung keliling persegi");
-
-            // Membaca pilihan pengguna
-            int pilihan = Convert.ToInt32(Console.ReadLine());
-
-            switch (pilihan)
+            while (jumlahAnakAyam > 0)
             {
-                case 1:
-                    HitungLuasPersegi();
-                    break;
-                case 2:
-                    HitungKelilingPersegi();
-                    break;
-                default:
-                    Console.WriteLine("Pilihan tidak valid. Silakan coba lagi.");
-                    break;
+                Console.WriteLine($"Anak ayam turunlah {jumlahAnakAyam}, mati satu tinggal {jumlahAnakAyam - 1}");
+                jumlahAnakAyam--;
             }
-            Console.WriteLine("Ulangi Proses? Y/N");
-        } 
-        while (Console.ReadLine() == "Y" || Console.ReadLine() == "y");
-    }
-
-    static void HitungLuasPersegi()
-    {
-        Console.WriteLine("Masukkan panjang sisi persegi:");
-        double sisi = Convert.ToDouble(Console.ReadLine());
-        double luas = sisi * sisi;
-        Console.WriteLine("Luas persegi adalah: " + luas);
-    }
-
-    static void HitungKelilingPersegi()
-    {
-        Console.WriteLine("Masukkan panjang sisi persegi:");
-        double sisi = Convert.ToDouble(Console.ReadLine());
-        double keliling = 4 * sisi;
-        Console.WriteLine("Keliling persegi adalah: " + keliling);
+        }
+        else
+        {
+            Console.WriteLine("Emang kasihan sih anak ayamnya, masukin 0-10 aja.");
+        }
     }
 }

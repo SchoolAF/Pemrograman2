@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JckNteQpiK/jMTMnlUIQRszGIKi/bVw4PXzHJLYr+m5Z3bk9o9nboQiCtM5lItPqJC9IO+qavMLiu4KeXsn+dg==",
+  "success": true,
+  "projectFilePath": "/home/buxx/P2/Pertemuan03/Praktikum/P2_2_714220066/PersegiNiBoss.csproj",
+  "expectedPackageFiles": [
+    "/home/buxx/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
