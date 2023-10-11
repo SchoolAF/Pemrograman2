@@ -15,6 +15,7 @@ Tidak ada tugas
 - [Tugas 1: Operasi Aritmatika](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan02/Praktikum/P2_1_714220066)
 
 ## Pertemuan 3
-= [Tugas 3: Index Prestasi Nahasiswa](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P2_1_714220066)
-= [Tugas 3: Menghitung Persegi](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P2_2_714220066)
+- [Tugas 1: Index Prestasi Nahasiswa](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P3_1_714220066)
+- [Tugas 2: AnakAyam Mati Satu](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P3_2_714220066)
+- [Tugas 3: Menghitung Persegi](https://github.com/SchoolAF/Pemrograman2/tree/main/Pertemuan03/Praktikum/P3_3_714220066)
 
