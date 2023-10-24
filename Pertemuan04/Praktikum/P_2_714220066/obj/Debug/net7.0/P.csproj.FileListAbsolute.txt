@@ -1,0 +1,15 @@
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.csproj.AssemblyReference.cache
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.GeneratedMSBuildEditorConfig.editorconfig
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.AssemblyInfoInputs.cache
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.AssemblyInfo.cs
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.csproj.CoreCompileInputs.cache
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/bin/Debug/net7.0/P
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/bin/Debug/net7.0/P.deps.json
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/bin/Debug/net7.0/P.runtimeconfig.json
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/bin/Debug/net7.0/P.dll
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/bin/Debug/net7.0/P.pdb
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.dll
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/refint/P.dll
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.pdb
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/P.genruntimeconfig.cache
+/home/buxx/p2/Pertemuan04/Praktikum/P_2_714220066/obj/Debug/net7.0/ref/P.dll

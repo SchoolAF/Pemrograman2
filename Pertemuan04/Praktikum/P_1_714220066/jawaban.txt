@@ -1,0 +1,16 @@
+Bagian 1
+
+14. string "myType" seharusnya tidak memiliki level protected jika ingin di akses class lain.
+
+19. Tidak terjadi eror tidak menghasilkan output apapun.
+
+karena code 'protected string myType = 'Book'' yang mendeklarasikan variabel book diubah menjadi private string myType namun tidak mendeklarasikan variabel myType.
+
+ 24. Karena ketika mengatur myProduct.Mytype = "DVD";, nilainya akan disimpan sebagai "dvd" dalam properti myType, dan saat kita mencetaknya dengan Console.WriteLine(myProduct.Mytype);, maka outputnya akan menjadi "DVD"
+
+
+Bagian II
+
+8. Pada output titile buku tidak muncul karena nethod mytitle oada class book belum dibuat. merupakan sifat inheritance.
+
+12. Title dari buku tersebut tidak muncul karena pada output tidak mengeeksekusi perintah myTitle karena pada property myTitle belum terinisialisasi dalam class Book_714220066 hal ini dinamakan Inheritance 
